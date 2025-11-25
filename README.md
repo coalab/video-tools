@@ -7,7 +7,7 @@
 👉 **웹페이지 보기:**  
 https://coalab.github.io/video-tools/
 
-#강의 아바타 영상 만들기
+👉 **강의 아바타 영상 만들기:**  
 https://coalab.github.io/video-tools/heygen.html
 
 ---
